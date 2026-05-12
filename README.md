@@ -49,7 +49,7 @@ The dashboard helps in understanding business performance through dynamic visual
 
 The dashboard is built using relational data modeling in Power BI with multiple connected tables for sales analysis.
 
-[Data Model]
+[Data Model](images/DataModel.png)
 ---
 
 ## 🔍 Key Insights
@@ -77,7 +77,6 @@ The dashboard is built using relational data modeling in Power BI with multiple 
 * SQL
 * Power Query
 * DAX
-* Excel
 
 ---
 
@@ -95,7 +94,9 @@ The dashboard is built using relational data modeling in Power BI with multiple 
 
 ## 📷 Dashboard Screenshots
 
-(Add your dashboard screenshots here)
+[Dashboard Screenshots](images/Overview.png)
+[Dashboard Screenshots](images/Performance Insights.png)
+[Dashboard Screenshots](images/Profitability Analysis.png)
 
 ---
 
