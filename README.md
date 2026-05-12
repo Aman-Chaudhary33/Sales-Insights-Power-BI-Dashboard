@@ -6,7 +6,7 @@ This project is an interactive **Business Intelligence dashboard** built using P
 
 The dashboard helps in understanding business performance through dynamic visualizations and data-driven insights.
 
-## 🔗 Live Dashboard Link
+🔗 Live Dashboard Link
 👉 [Click here to view the Dashboard](your-dashboard-link)
 ---
 
