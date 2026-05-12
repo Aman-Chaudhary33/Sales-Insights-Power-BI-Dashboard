@@ -94,9 +94,9 @@ The dashboard is built using relational data modeling in Power BI with multiple 
 
 ## 📷 Dashboard Screenshots
 
-[Dashboard Screenshots](images/Overview.png)
-[Dashboard Screenshots](images/Performance-Insights.png)
-[Dashboard Screenshots](images/Profitability-Analysis.png)
+![Dashboard Screenshots](images/Overview.png)
+![Dashboard Screenshots](images/Performance-Insights.png)
+![Dashboard Screenshots](images/Profitability-Analysis.png)
 
 ---
 
