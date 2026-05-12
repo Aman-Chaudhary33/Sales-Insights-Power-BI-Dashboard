@@ -2,10 +2,12 @@
 
 ## 📌 Project Overview
 
-This project is an interactive Business Intelligence dashboard built using Power BI to analyze sales performance, revenue trends, and profit insights across different markets and customer segments.
+This project is an interactive **Business Intelligence dashboard** built using Power BI to analyze sales performance, revenue trends, and profit insights across different markets and customer segments.
 
 The dashboard helps in understanding business performance through dynamic visualizations and data-driven insights.
 
+## 🔗 Live Dashboard Link
+👉 [Click here to view the Dashboard](your-dashboard-link)
 ---
 
 ## 🎯 Business Objectives
@@ -54,10 +56,11 @@ The dashboard is built using relational data modeling in Power BI with multiple 
 
 ## 🔍 Key Insights
 
-* Certain markets contribute significantly higher revenue compared to others.
-* Some regions generate high sales but lower profit margins.
-* Revenue trends show noticeable seasonal variations.
-* Profitability differs across customer markets and regions.
+* Total business revenue reached approximately **₹985M** with an overall profit margin of **2.5%** and total profit of nearly **₹24.7M**.
+* **Delhi NCR** was the highest-performing market, contributing around **₹520M** revenue and nearly **52.8%** of total revenue.
+* **Delhi NCR** and **Mumbai** together contributed more than **68%** of total business revenue, showing heavy revenue dependence on a few key markets.
+* **Surat** recorded the highest profit margin percentage at approximately **4.9%**, while some markets like **Bengaluru** and **Kanpur** showed very low or negative profit contribution.
+* Monthly revenue peaked above **₹40M** during early **2018**, followed by fluctuating revenue trends and gradual decline toward 2020.
 
 ---
 
@@ -94,17 +97,70 @@ The dashboard is built using relational data modeling in Power BI with multiple 
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Screenshots](images/Overview.png)
-![Dashboard Screenshots](images/Performance-Insights.png)
-![Dashboard Screenshots](images/Profitability-Analysis.png)
+## 📊 Dashboard Pages
 
 ---
 
+### 🏠 Overview Dashboard
+Provides a high-level overview of sales performance, revenue trends, and market-wise analysis.
+
+### Key Highlights
+- Revenue, Sales Quantity, and Profit Margin KPIs
+- Top-performing markets by revenue and sales quantity
+- Revenue trend analysis over time
+- Top customers and highest revenue-generating products
+
+![Overview Dashboard](images/Overview.png)
+
+---
+
+### 📈 Profitability Analysis Dashboard
+Focuses on market-wise profitability and profit contribution analysis.
+
+### Key Highlights
+- Profit contribution by markets
+- Profit percentage analysis
+- Revenue trend visualization
+- Customer-wise profitability insights
+
+![Profitability Analysis Dashboard](images/Profitability-Analysis.png)
+
+---
+
+### 🚀 Performance Insights Dashboard
+Provides deeper business insights using contribution and trend analysis.
+
+### Key Highlights
+- Revenue contribution percentage by markets
+- Customer contribution analysis
+- Profit margin trend analysis
+- Comparative revenue performance insights
+
+![Performance Insights Dashboard](images/Performance-Insights.png)
+
+
+---
+
+---
+
+## 📘 Learnings
+
+- Learned how to connect MySQL database with Power BI for data analysis.
+- Gained hands-on experience in data cleaning and transformation using Power Query.
+- Improved understanding of data modeling and table relationships in Power BI.
+- Created DAX measures for KPIs such as Revenue, Profit Margin, and Sales Quantity.
+- Learned to design interactive dashboards using slicers, filters, and navigation buttons.
+- Improved dashboard design and data storytelling skills through customized visualizations.
+- Understood how to derive business insights from sales and profitability analysis.
+
+
 ## 🚀 How to Use
 
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Use slicers and filters to interact with dashboard visuals
+1. Open the Power BI dashboard
+2. Use year slicer to filter data
+3. Navigate across dashboard pages
+4. Analyze revenue and profit trends
+5. Explore market-wise insights
 
 ---
 
