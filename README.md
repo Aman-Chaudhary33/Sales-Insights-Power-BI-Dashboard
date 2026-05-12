@@ -49,7 +49,7 @@ The dashboard helps in understanding business performance through dynamic visual
 
 The dashboard is built using relational data modeling in Power BI with multiple connected tables for sales analysis.
 
-![image alt](images/DataModel.png)
+![Data Model](images/DataModel.png)
 ---
 
 ## 🔍 Key Insights
