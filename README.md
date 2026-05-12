@@ -8,7 +8,7 @@ It helps identify key business patterns through dynamic visualizations and data-
 
 ---
 
-## 🔗 Live Dashboard Link
+🔗 Live Dashboard Link
 
 👉 [Click here to view the Dashboard](your-dashboard-link)
 
