@@ -16,6 +16,7 @@ It helps identify key business patterns through dynamic visualizations and data-
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Dashboard-00BFA5?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+---
 🔗 Live Dashboard Link
 
 👉 [Click here to view the Dashboard](your-dashboard-link)
