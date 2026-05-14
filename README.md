@@ -8,6 +8,14 @@ It helps identify key business patterns through dynamic visualizations and data-
 
 ---
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-00BFA5?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
 🔗 Live Dashboard Link
 
 👉 [Click here to view the Dashboard](your-dashboard-link)
